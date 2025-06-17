@@ -6,7 +6,7 @@ courseRouter.post('/purchase', (req, res) => {
 })
 
 
-courseRouter.get('/preview', (req, res) => {
+courseRouter.get('/details', (req, res) => {
 
 })
 
