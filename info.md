@@ -13,3 +13,5 @@
 - Add a database (mongodb), use dotenv to store the database connection string
 - Complete the routes for user login, signup, purchase a course, see course (Use ecpress the routing to better structure your routes)
 - Create the frontend
+
+- We have to make changes to our routes and write the frontend for our course selling app
